@@ -17,6 +17,9 @@
         <li><router-link to="/campus_life" active-class="active">Campus Life</router-link></li>
         <li><router-link to="/news" active-class="active">News</router-link></li>
         <li><router-link to="/contact" active-class="active">Contact</router-link></li>
+        <li><router-link to="/sample-data" active-class="active">Sample Data</router-link></li>
+        <li><router-link to="/sample-method" active-class="active">Sample Method</router-link></li>
+        <li><router-link to="/sample-Vmodel" active-class="active">Sample Vmodel</router-link></li>
       </ul>
 
       <div class="portal-btn">Portal Login</div>
